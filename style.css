@@ -180,7 +180,7 @@ padding-right: 40px;
     padding-top: 55px;
 }
 .rate-info{
-    padding-top: 131px;
+    padding-top: 70px;
     width: 510px;
     height: 214px;
 }
@@ -222,4 +222,41 @@ padding-right: 40px;
     font-size: 18px;
     line-height: 25px;
 }
+.rate-right h2{
+    top: 110px;
+    position: absolute;
+    width: 600px;
+    height: 130px;
+    left: 655px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    color: #303030;
+}
 
+.rate-right img{
+    padding-left: 660px;
+    padding-top: 220px;
+}
+.quote{
+    padding-top: 500px;
+}
+.quote img{
+    position: absolute;
+}
+.quote p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 57px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    width: 673px;
+    width: 673px;
+    height: 228px;
+    left: 623px;
+    top: 3006px;
+}
