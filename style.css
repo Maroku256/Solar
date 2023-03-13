@@ -1,0 +1,174 @@
+body{
+    width: 1921px;
+    height: 900px;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+header{
+    width: 1921px;
+    height: 900px;
+    background: url(/img/bg.jpg);
+}
+.logo{
+    position: absolute;
+    width: 182.09px;
+    height: 51px;
+    left: 868px;
+    top: 70px;
+}
+.text{
+    color: white;
+    width: 1921px;
+    height: auto;
+    padding-top: 261px;
+}
+.text-h2{
+    display: flex;
+    justify-content: center;
+    padding-top: 261px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    margin: 0;
+    padding: 0;
+}
+.text-h0{
+    justify-content: center;
+    display: flex;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 87px;
+    font-variant: all-small-caps;
+    margin: 0;
+    padding: 0;
+}
+.discriptor{
+    justify-content: center;
+    display: flex;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 57px;
+    margin: 0;
+    padding: 0;
+}
+.button .btn{
+    padding-left: 807px;
+    padding-top: 50px;
+    fill: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button-text{
+    color: white;
+    position: absolute;
+    margin: 0;
+    padding-left: 850px;
+    top: 541px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+}
+.media-ul{
+    list-style-type: none;
+    padding-top: 260px;
+    padding-left: 840px;
+}
+.media-ul li{
+    display: inline-block;
+    padding-left: 20px;
+}
+.tg{
+    padding-bottom: 5px;
+    padding-left: 20px;
+}
+.services{
+    width: 1199px;
+    height: 763px;
+    left: 360px;
+    top: 150px;
+    display: grid;
+    position: relative;
+}
+.services-h1{
+    color: #868585;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+}
+
+.services-h2{
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+}
+.services .text1{
+    width: 510px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    padding-top: 25px;
+    
+}
+.services .preview{
+    padding-left: 600px;
+    position: absolute;
+    padding-top: 92px;
+}
+.rate{
+    width: 1200px;
+    height: 765px;
+    left: 360px;
+    top: 300px;
+    display: grid;
+    position: relative;
+}
+.rate-h1{
+    color: gray;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+}
+.rate-left{
+    position: absolute;
+    padding-top: 120px;
+}
+.rate-ul{
+    list-style-type: none;
+    padding: 0;
+}
+.rate-ul li{
+    display: inline-block;
+padding-right: 40px;
+}
+.rate-slider{
+    padding-top: 120px;
+    width: 510px;
+}
+.rate-slider img{
+    position: absolute;
+}
+.rate-slider p{
+    padding-left: 50%;
+    width: 235px;
+}
+
+
+
