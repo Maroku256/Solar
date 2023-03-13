@@ -5,6 +5,9 @@ body{
     padding: 0;
     overflow-x: hidden;
 }
+p{
+    font-family: 'Open Sans', sans-serif;
+}
 header{
     width: 1921px;
     height: 900px;
@@ -85,11 +88,10 @@ header{
 }
 .media-ul li{
     display: inline-block;
-    padding-left: 20px;
+    padding-right: 30px;
 }
 .tg{
     padding-bottom: 5px;
-    padding-left: 20px;
 }
 .services{
     width: 1199px;
@@ -169,6 +171,55 @@ padding-right: 40px;
     padding-left: 50%;
     width: 235px;
 }
+.arrow-left{
+    padding-left: 255px;
+    padding-top: 55px;
+}
+.arrow-right{
+    padding-left: 325px;
+    padding-top: 55px;
+}
+.rate-info{
+    padding-top: 131px;
+    width: 510px;
+    height: 214px;
+}
+.rate-info1 h2{
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+}
+.rate-info1 p{
+    width: 235px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+}
+.rate-info1{
+    padding-top: 10px;
+    position: absolute;
+}
+.rate-info2{
+    padding-left: 260px;
+    padding-top: 10px;
+    width: 235px;
+}
+.rate-info2 p{
+    width: 235px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+}
 
-
+.rate-info2 h2{
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+}
 
